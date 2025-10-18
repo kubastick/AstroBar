@@ -34,6 +34,6 @@ Yes, this is a tiny menu bar app. Yes, I used Clean Architecture. Don't judge me
 
 ## Where The Magic Comes From
 
-All astronaut data graciously provided by [international-space-station-API](https://corquaid.github.io/international-space-station-API).
+All astronaut data graciously provided by [international-space-station-API](https://github.com/corquaid/international-space-station-APIs).
 
 Shoutout to whoever maintains this API. You're the real MVP.
